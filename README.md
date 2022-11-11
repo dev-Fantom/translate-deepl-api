@@ -19,7 +19,7 @@ requirements.txtからライブラリをインストール
 
 .envにAPIキーを指定
 
-
+    touch .env
 	DEEPL_API_KEY=YOURAPIKEY
 	
 ## Sample usage / 実行方法
