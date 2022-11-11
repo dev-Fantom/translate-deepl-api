@@ -14,6 +14,13 @@ requirements.txtからライブラリをインストール
 
 
 	pip install -r requirements.txt
+
+### Specify API key in .env
+
+.envにAPIキーを指定
+
+
+	DEEPL_API_KEY=YOURAPIKEY
 	
 ## Sample usage / 実行方法
 
